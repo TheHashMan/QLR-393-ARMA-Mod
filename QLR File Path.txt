@@ -1,0 +1,17 @@
+QLR-393/
+├── Weapons/
+│   ├── QLR-393_7.62.et
+│   └── QLR-393_5.45.et
+├── Magazines/
+│   ├── QLR-393_Mag_7.62.et
+│   └── QLR-393_Mag_5.45.et
+├── Prefabs/
+│   ├── QLR-393_7.62.et
+│   └── QLR-393_5.45.et
+├── Meshes/
+├── Textures/
+├── Materials/
+├── Animations/
+├── Audio/
+├── Scripts/
+└── UI/
